@@ -1,24 +1,24 @@
-# data_api（更新）
-数据接口，淘宝，拼多多，小红书，微信公众号，大众点评，等数据接口；大模型训练预料
+# crawl data api(china)（updated）
+data api，taobao，pinduoduo，xiaohongshu(red book)，wechat article，dianping，and other data api；big language model training prediction
 
-<span style="font-weight: bold; color: #4CAF50; font-size:20px ">提供主流数据接口服务</span>
+<span style="font-weight: bold; color: #4CAF50; font-size:20px ">Provide mainstream china data api services</span>
 
-<span style="font-weight: bold; color: #4CAF50; font-size:20px ">提供大模型训练语料</span>
+<span style="font-weight: bold; color: #4CAF50; font-size:20px ">Provide large language model training corpus</span>
 
-<span style="font-weight: bold; color: #4CAF50; font-size:20px ">承接个性化定制数据项目</span>
+<span style="font-weight: bold; color: #4CAF50; font-size:20px ">Undertake personalized custom data projects</span>
 
 
-#### 数据接口
-> <span style="color:darkorange; font-weight:bold;">电商</span>：拼多多、淘宝、抖音、快手、京东、TEMU、得物<br>
-<span style="color:darkorange; font-weight:bold;">舆情</span>：小红书、微博、知乎、微信公众号、新闻、论坛、贴吧、Bigo<br>
-<span style="color:darkorange; font-weight:bold;">本地生活</span>：大众点评、饿了么、京东到家<br>
-<span style="color:darkorange; font-weight:bold;">视频</span>：抖音、快手、B站<br>
-<span style="color:darkorange; font-weight:bold;">房地产</span>：贝壳、房天下、安居客等<br>
+#### data api
+> <span style="color:darkorange; font-weight:bold;">e-commerce</span>：pinduoduo, taobao, douyin(china tictok)、kuaishou、jd、temu, dewu<br>
+<span style="color:darkorange; font-weight:bold;">public opinion</span>：xiaohongshu(red book)、weibo(china tiwwer)、zhihu(china quota)、wechat article、news、baidu tieba(china reddit)、Bigo<br>
+<span style="color:darkorange; font-weight:bold;">local life</span>：dianping, ele.me, jddj<br>
+<span style="color:darkorange; font-weight:bold;">video</span>：douyin(china tictok)、kuaishou、bilibili(china youtube)<br>
+<span style="color:darkorange; font-weight:bold;">real estate</span>：ke.com(beike)、fangtianxia、anjuke, and other<br>
 
-#### 大模型语料
-> 百度知道、百度百科、微博、微信公众号、知乎、小红书、今日头条新闻、裁判文书网、搜狗图库、搜狗T网页库、Common Crawl、数据集LAION、Github
+#### big language model training prediction
+> baidu zhidao、baidu baike、weibo(china twitter)、wechat article、zhihu(china quota)、xiaohongshu(red book)、toutiao news、sougou、Common Crawl、LAION、Github
 > 
-#### 联系方式
+#### Contact
 
-微信号：**tanchichong1**
+wechat number：**tanchichong1**
 
