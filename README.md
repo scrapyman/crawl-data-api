@@ -20,6 +20,6 @@ data api，taobao，pinduoduo，xiaohongshu(red book)，wechat article，dianpin
 > 
 #### Contact
 
-wechat number：**tanchichong1**
+wechat number：**scrapyman_com**
 telegram number：**t.me/scrapyman**
 
