@@ -10,7 +10,7 @@ data api，taobao，pinduoduo，xiaohongshu(red book)，wechat article，dianpin
 
 #### data api
 > <span style="color:darkorange; font-weight:bold;">e-commerce</span>：pinduoduo, taobao, douyin(china tictok)、kuaishou、jd、temu, dewu, shopee<br>
-<span style="color:darkorange; font-weight:bold;">public opinion</span>：xiaohongshu(red book)、weibo(china tiwwer)、zhihu(china quota)、wechat article、news、baidu tieba(china reddit)、Bigo<br>
+<span style="color:darkorange; font-weight:bold;">public opinion</span>：xiaohongshu(red book)、weibo(china tiwwer)、zhihu(china quota)、wechat article、news、baidu tieba(china reddit)、Bigo, baidu index<br>
 <span style="color:darkorange; font-weight:bold;">local life</span>：dianping, ele.me, jddj<br>
 <span style="color:darkorange; font-weight:bold;">video</span>：douyin(china tictok)、kuaishou、bilibili(china youtube)<br>
 <span style="color:darkorange; font-weight:bold;">real estate</span>：ke.com(beike)、fangtianxia、anjuke, and other<br>
