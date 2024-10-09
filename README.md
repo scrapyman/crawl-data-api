@@ -64,6 +64,10 @@ Below are the platform APIs we currently provide. This list may not always be up
 
 - Lazada Product Details
 
+### SHEIN
+
+- SHEIN Product Details
+
 ### Shopee
 
 - Shopee Product Details
