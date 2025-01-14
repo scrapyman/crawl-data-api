@@ -15,16 +15,7 @@ Feel free to contact us with any questions.
 
 Below are the platform APIs we currently provide. This list may not always be up-to-date, so please contact us to get the latest real-time API documentation and view the most recent API list.
 
-### Taobao
-
-- Taobao Product Details
-- Taobao Product Reviews
-- Taobao Store Product List
-- Taobao Product Sales (Accurate Rolling 30-Day Sales)
-- Taobao Search Products
-- Taobao Product Description (Bottom Description Images)
-
-### Xiaohongshu (Little Red Book)
+### 🔥🔥Xiaohongshu (Little Red Book/Red Note)🔥🔥
 
 - Xiaohongshu Note Details
 - Xiaohongshu User Details
@@ -34,6 +25,15 @@ Below are the platform APIs we currently provide. This list may not always be up
 - Xiaohongshu Note Search
 - Xiaohongshu User Search
 - Xiaohongshu Home Feed
+
+### Taobao
+
+- Taobao Product Details
+- Taobao Product Reviews
+- Taobao Store Product List
+- Taobao Product Sales (Accurate Rolling 30-Day Sales)
+- Taobao Search Products
+- Taobao Product Description (Bottom Description Images)
 
 ### Douyin (Videos)
 
