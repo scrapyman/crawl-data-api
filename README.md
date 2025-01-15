@@ -15,7 +15,7 @@ Feel free to contact us with any questions.
 
 Below are the platform APIs we currently provide. This list may not always be up-to-date, so please contact us to get the latest real-time API documentation and view the most recent API list.
 
-### 🔥🔥Xiaohongshu (Little Red Book/Red Note)🔥🔥
+### 🔥🔥Xiaohongshu (Little Red Book/Red Note/ Red Book)🔥🔥
 
 - Xiaohongshu Note Details
 - Xiaohongshu User Details
