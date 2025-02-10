@@ -7,7 +7,7 @@ We are a professional data service provider, offering standard HTTP API services
 You can obtain our API documentation and enjoy free testing through the following contact methods. Recharge credits have no expiration date and are valid until depleted.
 
 - **WeChat**: scrapyman_com  
-- **Telegram**: [t.me/scrapyman](https://t.me/scrapyman)
+- **Telegram**: [t.me/fuckingrichman](https://t.me/fuckingrichman)
 
 Feel free to contact us with any questions.
 
