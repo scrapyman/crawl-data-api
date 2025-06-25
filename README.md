@@ -11,8 +11,7 @@ You can obtain our API documentation and enjoy free testing through the followin
 
 Feel free to contact us with any questions.
 
-## Service Overview
-
+## Service Overv
 Below are the platform APIs we currently provide. This list may not always be up-to-date, so please contact us to get the latest real-time API documentation and view the most recent API list.
 
 ### 🔥🔥Xiaohongshu (Little Red Book/Red Note/ Red Book)🔥🔥
@@ -75,10 +74,6 @@ Below are the platform APIs we currently provide. This list may not always be up
 ### JD.com
 
 - JD.com Product Details
-
-### Pinduoduo
-
-- Pinduoduo API is currently under strong risk control. Please contact us to inquire about the current status.
 
 ### WeChat Official Accounts
 
