@@ -1,5 +1,5 @@
 # justoneapi <img src="./logo_Symbol only.png" alt="Scrapyman Logo" width="40" height="40"/> —— Your Trusted Data Partner 
->[Official Website](https://heheheheheman.com)
+>[Official Website](https://justoneapi.com)  [API Document](https://doc.justoneapi.com)
 
 We are a professional data service provider, offering standard HTTP API services and customized data solutions tailored to your needs.
 
@@ -7,8 +7,8 @@ We are a professional data service provider, offering standard HTTP API services
 
 You can obtain our API documentation and enjoy free testing through the following contact methods. Recharge credits have no expiration date and are valid until depleted.
 
-- **Email**: apipea.com@gmail.com  
-- **Telegram**: [t.me/heheheheheman](https://t.me/heheheheheman)
+- **Email**: justoneapi@gmail.com  
+- **Telegram**: [t.me/justoneapi](https://t.me/justoneapi)
 
 Feel free to contact us with any questions.
 
